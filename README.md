@@ -1,8 +1,17 @@
-# Project Lyrics
+# Musicy
 
-Develop an elegant React.js Music Application. 
+ Here is the [Link](https://musicy1508.netlify.app/) to the website.
+ 
+ In the website you can:
+ 
+ # 1) Listen to your favourite songs online
+ ![image](https://user-images.githubusercontent.com/78594191/215308789-d9816b5b-d282-4315-9eab-262e5e15ee79.png)
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+ # 2) Search for any Song
+ ![2023-01-29 (2)](https://user-images.githubusercontent.com/78594191/215308982-93b162cd-84fc-4ebe-856a-c6d6b6cf5d72.png)
+
+# 3) Find the lyrics for the song
+![2023-01-29 (3)](https://user-images.githubusercontent.com/78594191/215309143-f826f531-36c9-4e56-a541-2bb830f7449c.png)
 
 # Contributing
 
