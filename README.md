@@ -13,6 +13,10 @@
 # 3) Find the lyrics for the song
 ![2023-01-29 (3)](https://user-images.githubusercontent.com/78594191/215309143-f826f531-36c9-4e56-a541-2bb830f7449c.png)
 
+# 4) Sort the songs by genres
+![image](https://user-images.githubusercontent.com/78594191/215310610-32ae0d1d-6713-4f7d-8638-95744e18e825.png)
+
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue.
